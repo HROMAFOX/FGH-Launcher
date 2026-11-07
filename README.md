@@ -112,14 +112,6 @@ Microsoft authentication takes place through Microsoft's sign-in services. FGH L
 
 **Current Status:** Microsoft account authentication is implemented for testing, but Minecraft Services access is pending application approval.
 
-<p align="center">
-  <img src="screenshots/accounts.png" alt="FGH Launcher Account Management" width="800">
-</p>
-
-<p align="center">
-  <em>FGH Launcher Account Center</em>
-</p>
-
 ---
 
 ## Minecraft Services API Access
