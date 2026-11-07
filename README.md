@@ -14,6 +14,20 @@ The launcher brings Minecraft installations, game profiles, mods, modpacks, and 
 
 ---
 
+## Launcher Preview
+
+A first look at the FGH Launcher interface.
+
+<p align="center">
+  <img src="screenshots/home.png" alt="FGH Launcher Home Dashboard" width="900">
+</p>
+
+<p align="center">
+  <em>FGH Launcher — Home Dashboard</em>
+</p>
+
+---
+
 ## Features
 
 ### Minecraft Version Management
@@ -33,6 +47,14 @@ The launcher brings Minecraft installations, game profiles, mods, modpacks, and 
 - Manage profile-specific game content.
 - Track gameplay activity and playtime.
 
+<p align="center">
+  <img src="screenshots/library.png" alt="FGH Launcher Profile Management" width="850">
+</p>
+
+<p align="center">
+  <em>Minecraft Library & Profile Management</em>
+</p>
+
 ### Mods and Modpacks
 
 - Discover and install compatible mods.
@@ -41,6 +63,14 @@ The launcher brings Minecraft installations, game profiles, mods, modpacks, and 
 - Update installed mods and supported content.
 - Manage resource packs and shaders.
 - Organize and customize individual Minecraft installations.
+
+<p align="center">
+  <img src="screenshots/discover.png" alt="FGH Launcher Mod Discovery" width="850">
+</p>
+
+<p align="center">
+  <em>Discover Mods, Modpacks & Minecraft Content</em>
+</p>
 
 ### Additional Tools
 
@@ -82,6 +112,14 @@ Microsoft authentication takes place through Microsoft's sign-in services. FGH L
 
 **Current Status:** Microsoft account authentication is implemented for testing, but Minecraft Services access is pending application approval.
 
+<p align="center">
+  <img src="screenshots/accounts.png" alt="FGH Launcher Account Management" width="800">
+</p>
+
+<p align="center">
+  <em>FGH Launcher Account Center</em>
+</p>
+
 ---
 
 ## Minecraft Services API Access
@@ -121,7 +159,7 @@ Additional improvements, performance optimizations, and new features are planned
 
 The Microsoft account authentication system is one of the features currently undergoing integration and testing.
 
-Release information and screenshots may be added to this repository as the project progresses.
+Release information and additional screenshots may be added to this repository as the project progresses.
 
 ---
 
