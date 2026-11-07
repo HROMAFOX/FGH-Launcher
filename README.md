@@ -68,6 +68,14 @@ Features include:
   <em>Minecraft Library & Profile Management</em>
 </p>
 
+<p align="center">
+  <img src="screenshots/profile-management.png" alt="FGH Launcher Minecraft Profile Details" width="850">
+</p>
+
+<p align="center">
+  <em>Minecraft Profile Details & Management</em>
+</p>
+
 ### Mods and Modpacks
 
 FGH Launcher includes content discovery and management features to make customizing Minecraft easier.
@@ -82,6 +90,32 @@ Features include:
 - Install and manage Minecraft modpacks.
 - Check for available mod updates.
 - Browse resource packs, data packs, and shaders.
+
+<p align="center">
+  <img src="screenshots/installed-content.png" alt="FGH Launcher Installed Content Management" width="850">
+</p>
+
+<p align="center">
+  <em>Installed Mods & Resource Pack Management</em>
+</p>
+
+#### Direct Profile Installation
+
+<p align="center">
+  <img src="screenshots/profile-content-browser.png" alt="FGH Launcher Profile-Specific Content Browser" width="850">
+</p>
+
+<p align="center">
+  <em>Discover Compatible Content for a Selected Minecraft Profile</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/profile-content-install.png" alt="FGH Launcher Direct Mod Installation" width="850">
+</p>
+
+<p align="center">
+  <em>Install Mods Directly into a Minecraft Profile</em>
+</p>
 
 <p align="center">
   <img src="screenshots/discover.png" alt="FGH Launcher Discover Page" width="850">
